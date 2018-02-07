@@ -1,2 +1,57 @@
 @import "uikit.min";
 @import "mediaplayer.min";
+@import url('https://fonts.googleapis.com/css?family=Cookie');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
+
+body {
+  color: black;
+  font-family: 'Playfair Display', serif;
+  background-image: url("../img/golden.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+main.uk-grid {
+  padding-left: 30px;
+}
+
+h5, p {
+  font-family: 'Playfair Display', serif;
+  color: black;
+}
+
+h1 {
+  padding-top: 2%;
+  font-family: 'Cookie', cursive;
+  font-size: 3em;
+  color: black;
+}
+
+h2 {
+  font-family: 'Cookie', cursive;
+  color: black;
+}
+
+.nav{
+  color: red;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul img {
+  padding: 12px;
+}
+
+.moviedetails {
+  padding: 1%;
+}
+
+.starring {
+  padding: 2%;
+}
+
+
+
