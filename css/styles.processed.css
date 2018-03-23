@@ -11453,7 +11453,7 @@ iframe.uk-cover {
 }
 
 body {
-  color: black;
+  color: white;
   font-family: 'Playfair Display', serif;
   background-color: #6E0F14;
 }
@@ -11509,7 +11509,7 @@ header h1 {
 h5,
 p {
   font-family: 'Playfair Display', serif;
-  color: black;
+  color: white;
 }
 
 h1 {
@@ -11517,12 +11517,12 @@ h1 {
   padding-top: 6%;
   font-family: 'Cookie', cursive;
   color: #202020;
-  color: black;
+  color: white;
 }
 
 h2 {
   font-family: 'Cookie', cursive;
-  color: black;
+  color: white;
   font-size: 3em;
 }
 
